@@ -121,6 +121,6 @@ This project demonstrates how unsupervised learning and sentiment analysis can b
 
 For collaboration, questions, or feedback:
 
-- **GitHub**: [Ifechukwu okonkwo](https://github.com/Ife926)
-- **LinkedIn**: [Ifechukwu okonkwo](http://www.linkedin.com/in/ifechukwu-okonkwo-9073a0252))
+- **GitHub**: [@Ife926](https://github.com/Ife926)
+- **LinkedIn**: [Ifechukwu okonkwo](http://www.linkedin.com/in/ifechukwu-okonkwo-9073a0252)
 - **Deployed App**: [Customer_Reviews](http://localhost:8501/)
